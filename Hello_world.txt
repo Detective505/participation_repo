@@ -1,3 +1,5 @@
 "Hello World!"
 
 "I'm making a brand new change here!"
+
+To clarify: this a change that is now proper.
